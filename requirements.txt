@@ -3,3 +3,4 @@ uvicorn==0.52.4
 ccxt==4.5.76
 pandas==3.0.5
 requests==2.34.2
+pandas_ta
